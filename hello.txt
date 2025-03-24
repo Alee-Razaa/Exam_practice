@@ -1,3 +1,5 @@
 Hello world
 Hi this is remotely changed content from repo
 Hi, this content on line 3
+Hi this is remotely changed content from the repo
+Hi, I am trying to make a conflict to merge them 
